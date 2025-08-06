@@ -12,9 +12,9 @@ Lightweight and beginner-friendly project
 
 🔧 Technologies Used
 HTML
-
 CSS
-
 JavaScript
-
 Axios (via CDN)
+
+📸 Screenshot
+![image alt](https://github.com/praveenpaldiya/Cat-Facts/blob/main/Assets/Screenshot%202025-08-06%20191200.png?raw=true)
